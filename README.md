@@ -1,0 +1,2 @@
+# wushatxs
+my new project
